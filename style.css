@@ -403,7 +403,7 @@ color:#fff;
 
 }
 .footer .share a:hover{
-    background: var(--white);
+    background: #fff;
     color: var(--black);
 }
 .footer .credit{
@@ -468,7 +468,7 @@ color:#fff;
         top: 100%;
         right: -100%;
         width: 25rem;
-        background-color: var(--white);
+        background-color: #a2bff5;
         height: 80vh;
     }
     .header .navbar.active{
